@@ -2,11 +2,11 @@
 
 ## Integrantes
 
-Nome do Integrante - RA
-Matteo Porcare - 10418276
-Tomy Goldberg Boimel - 10417109
-Yuri Milliet - 10417884
-Lucas Tuon de Matos - 10417987
+Nome do Integrante - RA  
+Matteo Porcare - 10418276  
+Tomy Goldberg Boimel - 10417109  
+Yuri Milliet - 10417884  
+Lucas Tuon de Matos - 10417987  
 
 ## Contexto
 
